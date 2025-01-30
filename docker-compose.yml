@@ -1,6 +1,6 @@
 services:
   flask:
-    image: krishan/flask
+    image: krsojp/flask
     build: .
     container_name: flask
     ports:
